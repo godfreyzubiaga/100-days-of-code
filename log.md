@@ -12,7 +12,7 @@
  ### Day 2: January 6, 2019
   **Today's Progress**: React Context API
 
-  **Thoughts**: Passing stuff like themes and localization using a state management like Redux or Mobx is an overkill. I'm happy to use React's Context API just to pass those kind of stuff around my components. Context API is interesting enough that I should learn more about it.
+  **Thoughts**: Passing stuff like themes and localization using a state management like Redux or Mobx is an overkill. I'm happy to use React's Context API just to pass those kind of stuff around my components. 
   
 **Link to work:** [Repository](https://github.com/godfreyzubiaga/100DaysOfCodePractice/tree/master/src/client/components/PracticeContext)
  
