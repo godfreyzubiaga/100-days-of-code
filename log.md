@@ -17,3 +17,11 @@
 **Link to work:** [Repository](https://github.com/godfreyzubiaga/100DaysOfCodePractice/tree/master/src/client/components/PracticeContext)
  
  ***
+ 
+  ### Day 3: January 7, 2019
+  **Today's Progress**: Refactor Codes
+
+  **Thoughts**: I was able to reduce the bundle size from 430+kb to 190kb.
+  
+**Link to work:** [Repository](https://github.com/godfreyzubiaga/100DaysOfCodePractice/)
+  ***
