@@ -25,3 +25,11 @@
   
 **Link to work:** [Repository](https://github.com/godfreyzubiaga/100DaysOfCodePractice/)
   ***
+
+  ### Day 3: January 8, 2019
+  **Today's Progress**: Refactor Codes
+
+  **Thoughts**: Each React Components, especially those that can be used again, should be moved to its own file/folder. It's easier to find bugs or use them again if you need to. 
+   
+**Link to work:** [Repository](https://github.com/godfreyzubiaga/100DaysOfCodePractice/)
+  ***
