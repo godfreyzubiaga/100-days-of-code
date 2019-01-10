@@ -41,3 +41,11 @@
    
 **Link to work:** [Repository](https://github.com/godfreyzubiaga/100DaysOfCodePractice/)
   ***
+
+### Day 6: January 10, 2019
+  **Today's Progress**: Adjust styles
+  
+  **Thoughts**: I didn't have enough time coding this day due to school works and I have to deal with our startup. I will try to do more work this weekend.
+   
+**Link to work:** [Repository](https://github.com/godfreyzubiaga/100DaysOfCodePractice/)
+  ***
