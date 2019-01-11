@@ -49,3 +49,11 @@
    
 **Link to work:** [Repository](https://github.com/godfreyzubiaga/100DaysOfCodePractice/)
   ***
+  
+### Day 7: January 11, 2019
+  **Today's Progress**: Update Portfolio and its repository
+  
+  **Details**: Change favicon and default project icon. Use a development branch instead of using another repo for my portfolio's repository.
+   
+**Link to work:** [Portfolio](https://godfreyzubiaga.github.io)
+  ***
