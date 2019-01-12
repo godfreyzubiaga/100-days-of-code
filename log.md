@@ -57,3 +57,13 @@
    
 **Link to work:** [Portfolio](https://godfreyzubiaga.github.io)
   ***
+  
+### Day 8: January 12, 2019
+  **Today's Progress**: Update Portfolio
+  
+  **Details**: Changed the 'About Me' description. Removed Facebook link and replace it with my twitter link instead.
+  
+  **Thoughts**: I don't feel well today, in terms of coding. I feel a little bit down and it's even more frustrating because I don't know the reason why. But I still tried to code even if I don't have any energy doing it.
+  
+**Link to work:** [Portfolio](https://godfreyzubiaga.github.io)
+  ***
