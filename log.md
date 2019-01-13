@@ -63,7 +63,15 @@
   
   **Details**: Changed the 'About Me' description. Removed Facebook link and replace it with my twitter link instead.
   
-  **Thoughts**: Thoughts: I feel a little bit down today and I feel even more down because I don't know the reason why.
+  **Thoughts**: I feel a little bit down today and I feel even more down because I don't know the reason why.
   
 **Link to work:** [Portfolio](https://godfreyzubiaga.github.io)
+  ***
+  
+### Day 9: January 13, 2019
+  **Today's Progress**: Simple Profile
+  
+  **Details**: Started creating a Profile Web application that will showcase your works and projects temporarily and easily.
+  
+  **Thoughts**: I want to make other people's life easier by instead of them worrying about how to showcase their projects, I will create a website that will do that for them so that they can focus more on something more important.
   ***
