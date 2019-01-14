@@ -81,5 +81,5 @@
   
   **Details**: Added some express routes, custom validations, tests, and server handlers.
   
-  **Thoughts**: I thought of working in the back-end for the mean time because I haven't finished the design for the front-end yet. It's been a while since I've setup my back-end using express, node, mongodb, etc. It feels weird now XD.
+  **Thoughts**: I added stuff in the back-end for the mean time because I haven't finished the UI design for the front-end yet. It's been a while since I've setup my back-end using express, node, mongodb, etc. It feels weird now XD.
   ***
