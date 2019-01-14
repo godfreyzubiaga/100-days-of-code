@@ -75,3 +75,11 @@
   
   **Thoughts**: I want to make other people's life easier by instead of them worrying about how to showcase their projects, I will create a website that will do that for them so that they can focus more on something more important.
   ***
+    
+### Day 10: January 14, 2019
+  **Today's Progress**: Simple Profile (Back-end)
+  
+  **Details**: Added some express routes, custom validations, tests, and server handlers.
+  
+  **Thoughts**: I thought of working in the back-end in the mean time for I haven't finished the design for the front-end yet. It's been a while since I've setup my back-end using express, node, mongodb, etc.
+  ***
