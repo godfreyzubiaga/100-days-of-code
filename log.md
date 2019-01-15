@@ -83,3 +83,9 @@
   
   **Thoughts**: I added stuff in the back-end for the mean time because I haven't finished the UI design for the front-end yet. It's been a while since I've setup my back-end using express, node, mongodb, etc. It feels weird now XD.
   ***
+  
+  ### Day 11: January 15, 2019
+  **Today's Progress**: Simple Profile (Front-end)
+  
+  **Details**: Added a Header and a Landing Page Components
+  ***
