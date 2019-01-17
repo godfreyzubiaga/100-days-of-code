@@ -90,7 +90,7 @@
   **Details**: Added a Header and a Landing Page Components
   ***
 
-  ### Day 12-13: January 16-15, 2019
+  ### Day 12-13: January 16-17, 2019
   **Today's Progress**: Simple Profile (Front-end)
   
   **Details**: Added the Homepage, Sign-in and Sign-up page. I also switched to preact for smaller bundle size (because I want to XD).
