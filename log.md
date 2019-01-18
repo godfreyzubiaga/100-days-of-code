@@ -95,3 +95,11 @@
   
   **Details**: Added the Homepage, Sign-in and Sign-up page. I also switched to preact for smaller bundle size (because I want to XD).
   ***
+  
+  ### Day 14: January 18, 2019
+  **Today's Progress**: Simple Profile (Front-end)
+  
+  **Details**: Adjust designs to be more mobile responsive. Refactor codes to minimize code repititions.
+  
+  **Other**: I didn't code much for simple-profile because I had to study/practice for an interview on Monday. I don't want to waste this opportunity. With that being said, I will not be adding big stuff on my simple-profile project until my interview is finished.
+  ***
