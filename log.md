@@ -103,3 +103,10 @@
   
   **Other**: I didn't code much for simple-profile because I had to study/practice for an interview on Monday. I don't want to waste this opportunity. With that being said, I will not be adding big stuff on my simple-profile project until my interview is finished.
   ***
+
+  ### Day 15: January 19, 2019
+  **Today's Progress**: Redux Practice
+  
+  **Details**: Practiced Redux and tried to implement a simple one in the simple-profile project.
+
+  ***
