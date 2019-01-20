@@ -110,3 +110,10 @@
   **Details**: Practiced Redux and tried to implement a simple one in the simple-profile project.
 
   ***
+
+  ### Day 16: January 20, 2019
+  **Today's Progress**: Practice problems from Leetcode
+  
+  **Thoughts**: It's been a while since I've practiced my algorithm skills. I've been to focused on my front-end skills for a long period of time.
+
+  ***
