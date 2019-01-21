@@ -117,3 +117,10 @@
   **Thoughts**: It's been a while since I've practiced my algorithm skills. I've been to focused on my front-end skills for a long period of time.
 
   ***
+
+  ### Day 17: January 21, 2019
+  **Today's Progress**: Practice problems from Leetcode
+  
+  **Thoughts**: My interview is earlier this afternoon. I've practiced more problems from leetcode. I practiced only a few because it makes me anxious. I chilled for a bit before my interview.
+
+  ***
