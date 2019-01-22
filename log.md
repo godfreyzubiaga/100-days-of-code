@@ -124,3 +124,10 @@
   **Thoughts**: My interview is earlier this afternoon. I've practiced more problems from leetcode. I practiced only a few because it makes me anxious. I chilled for a bit before my interview.
 
   ***
+
+  ### Day 18: January 22, 2019
+  **Today's Progress**: No progress for #100DaysOfCode Projects
+  
+  **Thoughts**: I did not code for a project that is for 100DaysOfCode specific. Although, I still coded but it's for my work.
+
+  ***
