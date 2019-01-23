@@ -131,3 +131,10 @@
   **Thoughts**: I did not code for a project that is for 100DaysOfCode specific. Although, I still coded but it's for my work.
 
   ***
+
+  ### Day 19: January 23, 2019
+  **Today's Progress**: No progress for #100DaysOfCode Projects
+  
+  **Thoughts**: Same as yesterday. Still coding for my work.
+
+  ***
