@@ -175,3 +175,11 @@
 **Details**: I've added a sign-in and sign-out using redux and express. This is only temporary because I still don't have a sign-up form. I hard coded a credential for now just to check if I can sign-in and sign-out.
 
 ---
+
+### Day 21: January 25, 2019
+
+**Today's Progress**: Added Temporary Sign-up 
+
+**Details**: Added a temporary sign-up that doesn't connect to the server/database yet. Fixed some bugs and improve my server handlers.
+
+---
