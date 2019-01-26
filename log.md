@@ -183,3 +183,11 @@
 **Details**: Added a temporary sign-up that doesn't connect to the server/database yet. Fixed some bugs and improve my server handlers.
 
 ---
+
+### Day 22: January 26, 2019
+
+**Today's Progress**: Input Field Error handling, Server Refactor, fix API endpoints
+
+**Details**: Added an input error handler. Changes color and styles if there's something wrong with the inputs. Refactor server side codes. Changes how I check authenticated user with their token. Change some api endpoints. I used request.params.** instead of request.query.**.
+
+---
