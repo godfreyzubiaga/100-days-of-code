@@ -188,6 +188,14 @@
 
 **Today's Progress**: Input Field Error handling, Server Refactor, fix API endpoints
 
-**Details**: Added an input error handler. Changes color and styles if there's something wrong with the inputs. Refactor server side codes. Changes how I check authenticated user with their token. Change some api endpoints. I used request.params.** instead of request.query.**.
+**Details**: Added an input error handler. Changes color and styles if there's something wrong with the inputs. Refactor server side codes. Changes how I check authenticated user with their token. Change some api endpoints. I used request.params.** instead of request.query.
+
+---
+
+### Day 23: January 27, 2019
+
+**Today's Progress**: Client and Server side validations. Loading Overlay while fetching or loading stuff.
+
+**Details**: Added a simple validations in both client and server side. Checks if all inputs are valid in the client side before sending the data to the server. Server will check this too to confirm. I also added a Loading Overlay COmponent for better UX. Looking at the same thing after you did something is boring and it makes a user be think whether they did something or not.
 
 ---
